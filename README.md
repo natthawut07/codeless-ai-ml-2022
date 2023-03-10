@@ -13,8 +13,12 @@
 ![โมเดลหรือโครงสร้าง](img/รูปภาพ10.png)
 ![โมเดลหรือโครงสร้าง](img/รูปภาพ11.png)
 
-##Construction
+## Conclusion
 ในการวิเคราะห์ในโปรแกรม KNIME โดยใช้ 3 โมเดล Decision tree Learner, Naive bayes Learner และ Gradient boosted trees Learner ในการวิเคราะห์นี้ได้ผลลัพธ์มากที่สุด คือ โมเดล Decision tree Learner : 60.87 % 
 คนที่จะถ่ายรูปเป็นส่วนมากจะเป็นผู้หญิง อยู่ในช่วงอายุ 28 ปี ส่วนมากจะถ่ายแบบงานแต่ง ช่วงการติดต่อส่วนเป็นการติดต่อแบบเข้ามาพุดคุยที่ร้านเอง
+
+## Author
+621431040-Nasrudin yusoh </br>
+631431034-Natthawut Chaitap
 
 
